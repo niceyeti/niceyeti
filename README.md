@@ -9,5 +9,5 @@ I'm currently learning Golang+Kubernetes devops through several projects:
 
 Currently reading Endurance by Alfred Lansing, and swapping the engine on my old WRX, one of several mechanical projects of necessity and enjoyment.
 
-Linkedin has devolved into a professional narcissism site, and I received way too much recruiter spam, so now I only engage direct contacts.
+Linkedin devolved into a professional narcissism site, and I received way too much recruiter spam, so I now only engage direct contacts.
 My github account is now my primary resume, but feel free to reach out at jesse underscore waite at hotmail.
