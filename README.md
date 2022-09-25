@@ -5,6 +5,3 @@ Currently professionalizing in Golang+Kubernetes devops through several projects
 * [Kubernetes](https://github.com/niceyeti/tutornetes) operators and CRDs for development/security
 * [Golang generic channel patterns library](https://github.com/niceyeti/channerics)
 * Multilanguage counter-misinformation evaluation methods
-
-Currently reading Endurance by Alfred Lansing, and swapping the engine on an old WRX, one of several mechanical projects of necessity and enjoyment.
-
